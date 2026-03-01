@@ -1,0 +1,1 @@
+[1] When building the Slider.java, I don't know how to make the slier like the assignment spec and ask AI to give me the code and make the slider show the tick and labels, so the AI give me the setPaintTicks and setPaintLabels.
