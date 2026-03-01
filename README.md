@@ -103,6 +103,3 @@ git clone https://github.com/Ivan53040/Java-OOP-StarTrek-ViewerBuild.git
 
 - Expanded integration test coverage
 
-Integration demo with Model and Controller builds
-
-Expanded integration test coverage
